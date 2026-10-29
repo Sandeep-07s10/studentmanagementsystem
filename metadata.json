@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaSec - Secure Student Management System",
+  "description": "Production-grade Student Management System featuring JWT authentication, RBAC authorization, API key validation, bcrypt password hashing, input validation, HTTPS/TLS security, and an automated REST API testing suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
