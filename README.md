@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AcademiaSec - Secure Student Management System
 
 A production-grade, full-stack Student Information & Security Management platform featuring robust authentication, role-based authorization (RBAC), stateless JWT token verification, SHA-256 API key hashing, adaptive bcrypt password hashing, rigorous input validation schemas, HTTPS/TLS transport security, and an automated verification test suite.
@@ -120,3 +121,6 @@ npm start
 - **Passed Assertions**: 12 (100% Pass Rate)
 - **Failed Assertions**: 0
 - **Total Test Execution Duration**: ~365 ms
+=======
+# studentmanagementsystem
+>>>>>>> 7de97fb61852a7ceea6ecaeeb0ddbf3acb65a7eb
